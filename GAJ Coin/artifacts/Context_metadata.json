@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.4+commit.c7e474f2"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"GAJ Coin/Context.sol": "Context"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"GAJ Coin/Context.sol": {
+			"keccak256": "0xfd8cd5d73785d40503561224e4edeffc1d388ba0314d50069917da332c079895",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e3e7132c0d61e82f7a88c6b0aa28cca381608df29a8355521448865fb3a9eabf",
+				"dweb:/ipfs/QmNUrF8sNfnBpdMV9E4GtnujRv7jeubq1AKQnSjPK3Fxwe"
+			]
+		}
+	},
+	"version": 1
+}
